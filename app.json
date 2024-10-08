@@ -9,7 +9,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668108;❣️Prince"
+      "value": "2347087941249;❣️Engrdolor"
       },
      "MODE": {
       "description": "mode public or private",
@@ -19,12 +19,12 @@
      "HKEY": {
       "description": "Put your Heroku API key Here",
       "required": true,
-      "value": ""
+      "value": "Engrdolor"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "Engrdolor"
        },
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
@@ -33,23 +33,23 @@
      },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
-      "required": false,
+      "required": true,
       "value": "true"
       },
     "ANTI_LINK": {
       "description": "Make true false to ON/OFF antilink",
-      "required": false,
+      "required": true,
       "value": "true"
       },
     "VIEWONCE": {
       "description": "Make true if wanna get view once message",
-      "required": false,
+      "required": true,
       "value": "true"
        },
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "🎡𝗣𝗥𝗜𝗡𝗫𝗘-𝗠𝗗🎡"
+      "value": "🎡Engr-Dolor🎡"
       },
     "PACK_NAME": {
       "description": "Put your stickers pack name",
@@ -89,7 +89,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~EshHWLbK#_kpIDDDRKM45JpvWXPQgemf2syJ8mTlKT5_psRqEJSw"
     }
     
    
